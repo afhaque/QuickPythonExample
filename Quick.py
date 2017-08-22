@@ -1,2 +1,4 @@
 name = "Ahmed"
-print(name)
+last_name = "Haque"
+print(name + " " + last_name)
+
